@@ -15,6 +15,11 @@ A single div can show multiple metrics
 
 Currently all charts update automatically after specified interval for each chart metric
 
+
+This project uses:
+aws-sdk-for-php https://github.com/amazonwebservices/aws-sdk-for-php
+flot https://github.com/flot/flot
+
 Let me know your thought and feed back when you use this.
 
 manu.skc@gmail.com
