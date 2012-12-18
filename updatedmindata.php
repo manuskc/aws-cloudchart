@@ -1,5 +1,5 @@
 <?php
-require_once dirname(__FILE__) . '/AWS-sdk/cloudwatch.chart.php';
+require_once dirname(__FILE__) . '/cloudwatch.chart.php';
 
 try {
 	if( isset($chart_parameters[$_GET['chart']]) === true && empty($chart_parameters[$_GET['chart']]) === false) {
